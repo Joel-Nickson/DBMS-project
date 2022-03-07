@@ -1,0 +1,7 @@
+.row{
+    border: 1px solid black;
+}
+.col{
+    flex: 1;
+    /* border: 1px solid black; */
+}
